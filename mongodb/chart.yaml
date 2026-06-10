@@ -2,4 +2,4 @@ apiVersion: v2
 name: mongodb
 version: 1.0.0 # chart version
 description: mongodb installation
-appVersion: v1
+appVersion: v1 #V1
