@@ -1,5 +1,5 @@
 deployment:
-  imageRepo: praveendevops12/catalogue:v1
+  imageRepo: praveendevops12/mongodb
   imageVersion: v1 
 service:
   type: ClusterIP
